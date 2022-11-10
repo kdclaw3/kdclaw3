@@ -1,4 +1,4 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e3cf765-88ef-4b38-a2f1-6c60b989a857" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![PMP](project-management-professional-pmp.png)](https://www.credly.com/badges/6e3cf765-88ef-4b38-a2f1-6c60b989a857/public_url)
 
 <!--
 ### Hi there 👋
