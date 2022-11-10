@@ -1,6 +1,7 @@
-### Hi there 👋
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e3cf765-88ef-4b38-a2f1-6c60b989a857" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!--
+### Hi there 👋
 **kdclaw3/kdclaw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
