@@ -1,4 +1,6 @@
-[![PMP](project-management-professional-pmp.png)](https://www.credly.com/badges/6e3cf765-88ef-4b38-a2f1-6c60b989a857/public_url) [![CSM](badge-72272.png)](https://bcert.me/syuxefzum) [![SAFe5](certified-safe-5-agilist.png)](https://www.credly.com/badges/8df324d4-7d04-4a52-b18f-7836669d1b60/public_url) [![Security+](comptia-security-ce-certification.png)](https://www.credly.com/badges/fc684f47-3a36-4e34-829e-05afc182c690/public_url)
+
+[![PMP](project-management-professional-pmp.png)](https://www.credly.com/badges/6e3cf765-88ef-4b38-a2f1-6c60b989a857/public_url) [![CSM](badge-7227.png)](https://bcert.me/syuxefzum) [![SAFe5](certified-safe-5-agilist.png)](https://www.credly.com/badges/8df324d4-7d04-4a52-b18f-7836669d1b60/public_url) [![Security+](comptia-security-ce-certification.png)](https://www.credly.com/badges/fc684f47-3a36-4e34-829e-05afc182c690/public_url)
+
 
 
 
